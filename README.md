@@ -1,4 +1,4 @@
-# Calculado de IMC
+# Calculadora de IMC
  Código que calcula seu IMC e diz se você está com:
 
 1.Abaixo do Peso
