@@ -1,5 +1,5 @@
 # Calculadora de IMC
- Código que calcula seu IMC e diz se você está com:
+ Código que calcula  O seu IMC e diz se você se classifica como:
 
 1.Abaixo do Peso
 
